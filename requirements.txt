@@ -1,0 +1,22 @@
+# New Dependencies
+wheel
+
+CherryPy
+Flask
+PasteScript
+
+# for vscode
+pylint 
+rope
+
+# for running the notebooks
+numpy
+jupyter
+jupyter_contrib_nbextensions
+pandas-profiling
+pyspark==2.3.2
+ipywidgets
+
+# For development of version 3
+SQLAlchemy
+PyHive
